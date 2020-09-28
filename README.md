@@ -1,6 +1,6 @@
 ## AXIOM
 
-This module contains articles about JSON.
+This module contains articles about Axiom Telecom Handset Search APIs.
 
 ### Relevant Articles:
 At this URL: https://a511e938-a640-4868-939e-6eef06127ca1.mock.pstmn.io/handsets/list,
