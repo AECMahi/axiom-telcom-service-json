@@ -1,8 +1,8 @@
-## AXIOM
+## AXIOM Telecom Handset Search
 
 This module contains articles about Axiom Telecom Handset Search APIs.
 
-### Relevant Articles:
+### Relevant Requirement:
 At this URL: https://a511e938-a640-4868-939e-6eef06127ca1.mock.pstmn.io/handsets/list,
 you will find a JSON file with a sample “Mobile handset” database. The data in this JSON is
 static, I.e it doesn’t get updated.
@@ -16,3 +16,4 @@ The criteria can be any field in the handset data along with any value. Examples
 2. Consume the JSON API in the best way you see suitable.
 3. Create Unit Test cases as you see suitable.
 
+### Technology Stack:
